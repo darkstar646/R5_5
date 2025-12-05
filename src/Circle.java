@@ -1,4 +1,4 @@
-
+//R5_5
 public class Circle extends MyFrame2 {
 	
     public void drawSpiral(int cx, int cy, int dist, int num, int deg) {
